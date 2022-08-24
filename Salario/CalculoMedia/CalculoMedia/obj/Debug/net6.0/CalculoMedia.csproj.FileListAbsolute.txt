@@ -1,0 +1,15 @@
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\bin\Debug\net6.0\CalculoMedia.exe
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\bin\Debug\net6.0\CalculoMedia.deps.json
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\bin\Debug\net6.0\CalculoMedia.runtimeconfig.json
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\bin\Debug\net6.0\CalculoMedia.dll
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\bin\Debug\net6.0\CalculoMedia.pdb
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.csproj.AssemblyReference.cache
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.AssemblyInfoInputs.cache
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.AssemblyInfo.cs
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.csproj.CoreCompileInputs.cache
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.dll
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\obj\Debug\net6.0\refint\CalculoMedia.dll
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.pdb
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.genruntimeconfig.cache
+C:\Users\sapeh\source\repos\CalculoMedia\CalculoMedia\obj\Debug\net6.0\ref\CalculoMedia.dll
