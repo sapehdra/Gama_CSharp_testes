@@ -1,0 +1,15 @@
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\bin\Debug\net6.0\TipoPessoa.exe
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\bin\Debug\net6.0\TipoPessoa.deps.json
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\bin\Debug\net6.0\TipoPessoa.runtimeconfig.json
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\bin\Debug\net6.0\TipoPessoa.dll
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\bin\Debug\net6.0\TipoPessoa.pdb
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\obj\Debug\net6.0\TipoPessoa.csproj.AssemblyReference.cache
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\obj\Debug\net6.0\TipoPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\obj\Debug\net6.0\TipoPessoa.AssemblyInfoInputs.cache
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\obj\Debug\net6.0\TipoPessoa.AssemblyInfo.cs
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\obj\Debug\net6.0\TipoPessoa.csproj.CoreCompileInputs.cache
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\obj\Debug\net6.0\TipoPessoa.dll
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\obj\Debug\net6.0\refint\TipoPessoa.dll
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\obj\Debug\net6.0\TipoPessoa.pdb
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\obj\Debug\net6.0\TipoPessoa.genruntimeconfig.cache
+C:\Users\sapeh\source\repos\TipoPessoa\TipoPessoa\obj\Debug\net6.0\ref\TipoPessoa.dll
