@@ -1,0 +1,15 @@
+C:\Users\sapeh\source\repos\Salario\Salario\obj\Debug\net6.0\Salario.csproj.AssemblyReference.cache
+C:\Users\sapeh\source\repos\Salario\Salario\obj\Debug\net6.0\Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sapeh\source\repos\Salario\Salario\obj\Debug\net6.0\Salario.AssemblyInfoInputs.cache
+C:\Users\sapeh\source\repos\Salario\Salario\obj\Debug\net6.0\Salario.AssemblyInfo.cs
+C:\Users\sapeh\source\repos\Salario\Salario\obj\Debug\net6.0\Salario.csproj.CoreCompileInputs.cache
+C:\Users\sapeh\source\repos\Salario\Salario\bin\Debug\net6.0\Salario.exe
+C:\Users\sapeh\source\repos\Salario\Salario\bin\Debug\net6.0\Salario.deps.json
+C:\Users\sapeh\source\repos\Salario\Salario\bin\Debug\net6.0\Salario.runtimeconfig.json
+C:\Users\sapeh\source\repos\Salario\Salario\bin\Debug\net6.0\Salario.dll
+C:\Users\sapeh\source\repos\Salario\Salario\bin\Debug\net6.0\Salario.pdb
+C:\Users\sapeh\source\repos\Salario\Salario\obj\Debug\net6.0\Salario.dll
+C:\Users\sapeh\source\repos\Salario\Salario\obj\Debug\net6.0\refint\Salario.dll
+C:\Users\sapeh\source\repos\Salario\Salario\obj\Debug\net6.0\Salario.pdb
+C:\Users\sapeh\source\repos\Salario\Salario\obj\Debug\net6.0\Salario.genruntimeconfig.cache
+C:\Users\sapeh\source\repos\Salario\Salario\obj\Debug\net6.0\ref\Salario.dll
