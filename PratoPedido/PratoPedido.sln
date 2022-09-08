@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PratoPedido", "PratoPedido\PratoPedido.csproj", "{C9BF2191-E9D7-4800-8992-AB361E00CD21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9BF2191-E9D7-4800-8992-AB361E00CD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BF2191-E9D7-4800-8992-AB361E00CD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BF2191-E9D7-4800-8992-AB361E00CD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BF2191-E9D7-4800-8992-AB361E00CD21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {004A7366-B9A2-4695-9C8A-9A1FA23E0DA4}
+	EndGlobalSection
+EndGlobal

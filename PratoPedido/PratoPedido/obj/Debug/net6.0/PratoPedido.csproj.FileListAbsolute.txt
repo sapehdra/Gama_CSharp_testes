@@ -1,0 +1,15 @@
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\obj\Debug\net6.0\PratoPedido.csproj.AssemblyReference.cache
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\obj\Debug\net6.0\PratoPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\obj\Debug\net6.0\PratoPedido.AssemblyInfoInputs.cache
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\obj\Debug\net6.0\PratoPedido.AssemblyInfo.cs
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\obj\Debug\net6.0\PratoPedido.csproj.CoreCompileInputs.cache
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\bin\Debug\net6.0\PratoPedido.exe
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\bin\Debug\net6.0\PratoPedido.deps.json
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\bin\Debug\net6.0\PratoPedido.runtimeconfig.json
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\bin\Debug\net6.0\PratoPedido.dll
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\bin\Debug\net6.0\PratoPedido.pdb
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\obj\Debug\net6.0\PratoPedido.dll
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\obj\Debug\net6.0\refint\PratoPedido.dll
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\obj\Debug\net6.0\PratoPedido.pdb
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\obj\Debug\net6.0\PratoPedido.genruntimeconfig.cache
+C:\Users\sapeh\source\repos\PratoPedido\PratoPedido\obj\Debug\net6.0\ref\PratoPedido.dll
